@@ -1,0 +1,23 @@
+{
+  "name": "q4_tests_warmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emflournoy/q4_tests_warmup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emflournoy/q4_tests_warmup/issues"
+  },
+  "homepage": "https://github.com/emflournoy/q4_tests_warmup#readme",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
